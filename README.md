@@ -20,9 +20,10 @@ Daosurance is a DAO based insurance company where all members are expected to pa
 
 If successfull it will outgrow traditional companies and will start to be somewhat of a borderless nation state that combines money and determines the best use of it's funds in ways that traditional charasmatic leader based governance is based.  While some of the ideas may be novel and flawed, it is important to start in order to make the improvements neccessary.
 
-    “There are risks and costs to a program of action. But they are far less than the long-range risks and costs of comfortable inaction.” 
+    “There are risks and costs to a program of action. 
+    But they are far less than the long-range risks and costs of comfortable inaction.” 
     
-    -- John F. Kennedy
+    - John F. Kennedy
 
 ## THE PROBLEM
 
