@@ -1,4 +1,4 @@
-# Daohaus
+# Daosurance
 
 [John D. Storey](mailto:johndangerstorey@gmail.com)
 
@@ -7,7 +7,10 @@ V0.1 - Dec 24, 18
 ## Table of Contents
 
 [Abstract](#abstract)
+
 [The Problem](#the-problem)
+
+[FAQ](#faq)
 
 ---
 
