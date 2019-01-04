@@ -66,13 +66,17 @@ Currently health insurance is approximately $300 a month for a single member.  $
 ## FAQ
 
 Q:  Will we ensure unhealthy people or those with pre-existing conditions?
+
 A:  No, not at first.  We won't be able to afford those kinds of members at the onset.  We wish them well and are gratefull that we have existing insurance companies to treat them. Unless we can get an insurance for our own insurance to cover us until we've built up needed funds. 
 
 Q:  Is there a cap of which one can be insured?
+
 A:  There is a maximum that one is able to pull out from the insurance that increases with time and money given to the platform.  The multiplier is quadratic.
 
 Q:  What will be the underlying currency?
+
 A:  A stable coin such as TUSD, DAI or USDC will be used for paying claims.  Voice credits will be used for voting on policy and resource proposals.
 
 Q:  Will members that have been in the group longer have a more powerful vote than new members.
+
 A:  Yes, we will use quadratic voting to ensure that those that have put more money into the system have a slightly more influential vote, however not powerfull enough to overturn the general will.  For more information on quadratic voting see the [wikipedia page](https://en.wikipedia.org/wiki/Quadratic_voting)
