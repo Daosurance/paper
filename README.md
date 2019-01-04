@@ -4,7 +4,7 @@
 
 V0.2 - Jan 4, 2019
 
-## Table of Contents
+### Table of Contents
 
 [Abstract](#abstract)
 
