@@ -18,7 +18,7 @@ V0.2 - Jan 4, 2019
 
 Daosurance is a DAO based insurance company where all members are expected to participate at some level or other and enjoy the benefits of increased effeciency.  How this is achieved will be explored in the following sections but draws heavily on a "jury" system where participants are selected at random and expected to perform tasks that catch fraud and allow for improvements to be made to the organization in a decentralized way prolonging it's usefullness to it's members by it's own survival. 
 
-If successfull it will outgrow traditional companies and will start to be somewhat of a borderless nation state that combines money and determines the best use of it's funds in ways that traditional charasmatic leader based governance is based.  While some of the ideas may be novel and flawed, it is important to start in order to make the improvements neccessary.
+If successfull it will outgrow traditional companies and will start to be somewhat of a borderless nation state that combines money and determines the best use of it's funds in ways that traditional charasmatic leader based governance is based.  While some of the ideas may be ignorantly flawed, it is important to start in order to make the improvements neccessary.
 
     “There are risks and costs to a program of action. 
     But they are far less than the long-range risks and costs of comfortable inaction.” 
