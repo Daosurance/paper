@@ -10,11 +10,17 @@ V0.2 - Jan 4, 2019
 
 [The Problem](#the-problem)
 
+[Uses](#uses)
+
+[Roles](#roles)
+
+[Attacks](#attacks)
+
 [FAQ](#faq)
 
 ---
 
-## Abstract
+## ABSTRACT
 
 Daosurance is a DAO based insurance company where all members are expected to participate at some level or other and enjoy the benefits of increased effeciency.  How this is achieved will be explored in the following sections but draws heavily on a "jury" system where participants are selected at random and expected to perform tasks that catch fraud and allow for improvements to be made to the organization in a decentralized way prolonging it's usefullness to it's members by it's own survival. 
 
@@ -29,7 +35,7 @@ If successfull it will outgrow traditional companies and will start to be somewh
 
 Currently health insurance is approximately $300 a month for a single member.  $3,600 annually that for the currently health feels like a bottomless hole they are throwing money into that they won't be able to recoup or benefit from because all the profit is going towards a centralized corporation rather than the value created returning back to the members of it's network.
 
-## Use Cases
+## USES
 
 1. User makes claim against group for an issue.  Needs paperwork to be verified, uploaded for future verification, and after 2 weeks if no suspicious behavior is found the money transfers.
 2. Group has excess money in escrow, a member wants to allocate that money back to all the members or fund some other member focused initiative.  They submit a proposal that is investigated and then voted upon.
